@@ -1,3 +1,3 @@
 # IA Generativa
 
-Um exercício para verificar a capacidade de identificação de texto em algumas imagens.
+Um exercício para verificar a capacidade de identificação e interpretação de texto em algumas imagens.
